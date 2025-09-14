@@ -1,0 +1,17 @@
+BasedOnStyle: LLVM
+Language: Cpp
+ColumnLimit: 0
+PointerAlignment: Right
+AccessModifierOffset: -4
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+BreakBeforeBraces: Attach
+BreakBeforeBinaryOperators: NonAssignment
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortIfStatementsOnASingleLine: false
+AlignAfterOpenBracket: DontAlign
+AlignOperands: DontAlign
+BinPackArguments: false
+BinPackParameters: false
+NamespaceIndentation: All
