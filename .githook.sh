@@ -1,11 +1,10 @@
 #!/bin/bash
-###
- # @Author: aurson jassimxiong@gmail.com
+ # @Author: 熊昱卿(Aurson) jassimxiong@gmail.com
  # @Date: 2025-09-14 17:33:37
- # @LastEditors: aurson jassimxiong@gmail.com
- # @LastEditTime: 2025-09-18 15:40:35
- # @Description:
- # Copyright (c) 2025 by Aurson, All Rights Reserved.
+ # @LastEditors: 熊昱卿(Aurson) jassimxiong@gmail.com
+ # @LastEditTime: 2026-04-18 11:58:50
+ # @Description: 编译脚本
+ # Copyright (c) 2025 by 熊昱卿(Aurson), All Rights Reserved.
  # Licensed under the Apache License, Version 2.0 (the "License");
  # you may not use this file except in compliance with the License.
  # You may obtain a copy of the License at
@@ -17,7 +16,6 @@
  # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  # See the License for the specific language governing permissions and
  # limitations under the License.
-###
 # 创建目标目录（如果不存在）
 HOOK_DIR=".git/hooks"
 mkdir -p "$HOOK_DIR"
